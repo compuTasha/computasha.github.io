@@ -46,6 +46,10 @@ module.exports = {
         date: '2022.01 ~',
         activity: '블로그 시작',
       },
+      {
+        date: '2022.01 ~',
+        activity: 'AWS Cloud Bootcamp 참여',
+      },
     ],
 
     projects: [
