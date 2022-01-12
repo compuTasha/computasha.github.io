@@ -4,7 +4,7 @@ title: 2022년 운동 기록
 date: '2022-01-12 23:26:00'
 author: 콤퓨타샤
 tags: 운동 computasha
-categories: 기록
+categories: etc.
 ---
 
 무려 5개월 만에 운동을 다시 시작했다.
@@ -17,6 +17,6 @@ categories: 기록
 - 2022.01.12(수) Day 1
     ![운동1](/exercise-chloe-1.png)  
     
-    warm up 부터 cooldown 까지 완료! 힘들다 힘들어
+    warm up 부터 cooldown 까지. 힘들다..!
 
 <br><br>
