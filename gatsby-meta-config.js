@@ -10,7 +10,7 @@ module.exports = {
       repo: `compuTasha/blog-comments`, // `zoomkoding/zoomkoding-gatsby-blog`,
       'issue-term': "pathname",
       label: "utterances",
-      theme: "github-light",
+      theme: "dark-blue",
       crossorigin: "anonymous",
       async: "true",
     },

@@ -7,15 +7,6 @@ tags: AWS cloud-computing computasha
 categories: AWS
 ---
 
-<script src="https://utteranc.es/client.js"
-        repo="compuTasha/blog-comments"
-        issue-term="pathname"
-        label="utterances"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
-
 ## ☁️ 정의
 ![클라우드 컴퓨팅 정의](/AWS-ACF-1-cloud-def.png)
 

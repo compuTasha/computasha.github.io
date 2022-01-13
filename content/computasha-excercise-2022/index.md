@@ -19,6 +19,13 @@ categories: etc.
     
     warm up 부터 cooldown 까지. 힘들다..!
 
+<br>
+
+- 2022.01.13(목) Day 2
+    ![운동2](/exercise-chloe-2.png)  
+
+    집 오자마자 운동복으로 갈아입으면 조금 귀찮더라도 운동하게 되는 것 같다
+
 <br><br>
 
 ```toc
