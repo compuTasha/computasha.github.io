@@ -4,7 +4,7 @@ title: 다시 시작하는 Github 블로그
 date: '2022-01-09 23:10:00'
 author: 콤퓨타샤
 tags: 블로그 github-pages computasha
-categories: etc.
+categories: 블로그
 ---
 
 ![기록1](/record1.png)
