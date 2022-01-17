@@ -3,7 +3,7 @@ module.exports = {
   description: `하고 싶은 게 많은 개발자`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
   siteUrl: `https://computasha.github.io`,
-  ogImage: `/og_image.png`, // Path to your in the 'static' folder
+  ogImage: `/og-image.png`, // Path to your in the 'static' folder
   comments: {
     utterances: {
       src: "https://utteranc.es/client.js",

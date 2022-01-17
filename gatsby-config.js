@@ -129,7 +129,6 @@ module.exports = {
       },
     },
     `gatsby-theme-material-ui`,
-    `gatsby-plugin-advanced-sitemap`
     `gatsby-transformer-sharp`,
     `gatsby-plugin-advanced-sitemap`,
     `gatsby-plugin-sharp`,

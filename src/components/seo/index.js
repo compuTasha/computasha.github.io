@@ -51,7 +51,6 @@ function Seo({ description, title }) {
           property: 'og:image',
           content: site.siteMetadata.ogImage,
         },
-
         {
           property: `og:type`,
           content: `website`,
@@ -59,7 +58,7 @@ function Seo({ description, title }) {
         {
           name: "google-site-verification",
           content: "Z0asH34ltqt9ki3R1a2Fr49jKVni5zc16nJpVpjNpYw"
-      },
+        },
       ]}
     />
   );
