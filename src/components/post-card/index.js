@@ -2,6 +2,8 @@ import { Link } from 'gatsby';
 import React from 'react';
 import './style.scss';
 
+<meta name="google-site-verification" content="Z0asH34ltqt9ki3R1a2Fr49jKVni5zc16nJpVpjNpYw" />
+
 function PostCard({ post }) {
   const { id, slug, title, excerpt, date, categories } = post;
   return (
