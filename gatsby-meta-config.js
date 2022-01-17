@@ -2,7 +2,7 @@ module.exports = {
   title: `computasha.com`,
   description: `하고 싶은 게 많은 개발자`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
-  siteUrl: `https://www.computasha.com`,
+  siteUrl: `https://computasha.github.io`,
   ogImage: `/og_image.png`, // Path to your in the 'static' folder
   comments: {
     utterances: {
@@ -15,7 +15,7 @@ module.exports = {
       async: "true",
     },
   },
-  ga: 'UA-134826755-2', // Google Analytics Tracking ID
+  ga: 'G-4V4NWVS40W', // Google Analytics Tracking ID
   author: {
     name: `김미주`,
     bio: {

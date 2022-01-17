@@ -62,14 +62,6 @@ module.exports = {
       },
     },
     {
-      resolve: `gatsby-plugin-gtag`,
-      options: {
-        trackingId: `G-4V4NWVS40W`, // 측정 ID
-        head: false, // head에 tracking script를 넣고 싶다면 true로 변경 
-        anonymize: true,
-      },
-    },
-    {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
@@ -139,4 +131,3 @@ module.exports = {
     `gatsby-plugin-sass`,
   ],
 };
-
