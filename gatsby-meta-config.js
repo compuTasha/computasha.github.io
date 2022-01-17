@@ -15,7 +15,7 @@ module.exports = {
       async: "true",
     },
   },
-  ga: 'G-4V4NWVS40W', // Google Analytics Tracking ID
+  ga: 'UA-217411817-1', // Google Analytics Tracking ID
   author: {
     name: `김미주`,
     bio: {
