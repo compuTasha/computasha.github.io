@@ -21,6 +21,7 @@
     "gatsby-plugin-robots-txt": "^1.6.14",
     "gatsby-plugin-sass": "^4.14.0",
     "gatsby-plugin-sharp": "^3.13.0",
+    "gatsby-plugin-sitemap": "^5.5.0",
     "gatsby-remark-autolink-headers": "^4.11.0",
     "gatsby-remark-copy-linked-files": "^4.10.0",
     "gatsby-remark-images": "^5.10.0",
@@ -36,6 +37,7 @@
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-rotating-text": "^1.4.1",
+    "react-router-sitemap": "^1.2.0",
     "sass": "^1.43.4",
     "typeface-montserrat": "^1.1.13"
   },

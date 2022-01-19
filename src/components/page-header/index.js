@@ -4,8 +4,6 @@ import Post from '../../models/post';
 import PostSearch from '../post-search';
 import './style.scss';
 
-<meta name="google-site-verification" content="Z0asH34ltqt9ki3R1a2Fr49jKVni5zc16nJpVpjNpYw" />
-
 function PageHeader({ siteTitle }) {
   return (
     <StaticQuery
