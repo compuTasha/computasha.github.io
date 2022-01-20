@@ -3,7 +3,7 @@ emoji: 🏃‍♀️
 title: 2022년 운동 기록
 date: '2022-01-12 23:26:00'
 author: 콤퓨타샤
-tags: 블로그 운동 computasha
+tags: 블로그 computasha
 categories: 블로그
 ---
 
