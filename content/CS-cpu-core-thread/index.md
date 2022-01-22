@@ -4,7 +4,7 @@ title: 'CPU 코어와 스레드'
 date: '2022-01-22 22:51:00'
 author: 콤퓨타샤
 tags: hardware computasha
-categories: etc.
+categories: CS
 ---
 
 ## CPU 코어
