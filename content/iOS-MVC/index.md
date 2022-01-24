@@ -11,15 +11,13 @@ categories: iOS
 
 디자인 패턴을 잘 활용하면, 앱의 코드를 모듈화할 수 있고  버그 수정과 변경이 더 쉬워진다.
 
-디자인 패턴 혹은 아키텍처 패턴은 Cocoa Touch 앱 개발의 핵심이지만 어떤 디자인 패턴이 앱에 적용하기 가장 적절한지에 대해서는 아직까지 의견이 많다.
-
 그중에서도 오늘 살펴볼 디자인 패턴은 MVC 패턴이다.
 
-(오리지널 MVC 패턴이 아닌 [애플이 발표한 Cocoa MVC 패턴](https://developer.apple.com/library/archive/documentation/General/Conceptual/DevPedia-CocoaCore/MVC.html)..! 요즘 말하는 MVC 패턴은 거의 다 이 패턴을 의미한다)
+(오리지널 MVC 패턴이 아닌 [애플이 발표한 Cocoa MVC 패턴](https://developer.apple.com/library/archive/documentation/General/Conceptual/DevPedia-CocoaCore/MVC.html)..! = 요즘 말하는 MVC 패턴)
 
 <br>
 
-# Model-View-Controller (MVC)
+## 🤳🏻 Model-View-Controller (MVC)
 
 현재 Cocoa Touch 개발에서 가장 많이 사용되는 디자인 패턴이다.
 
@@ -29,7 +27,7 @@ categories: iOS
 
 <br>
 
-## MVC 레이어의 역할과 관계
+## 👪 MVC 레이어의 역할과 관계
 
 우선 각 레이어의 역할을 살펴보자
 
@@ -41,7 +39,7 @@ MVC 디자인 패턴은 코드를 **Model, View, Controller** 중 하나로 구�
 
 <br>
 
-### Model : 데이터와 관련된 책임을 담당하는 레이어
+### 💁🏻‍♂️ Model : 데이터와 관련된 책임을 담당하는 레이어
 
 Model 레이어에서는 앱이 포함해야할 데이터를 캡슐화하고 데이터를 처리하는 로직을 정의한다. 
 
@@ -51,7 +49,7 @@ Model 레이어에서 변경 사항이 생기는 경우, 그 내용을 Controlle
 
 <br>
 
-### View : 사용자에게 보여질 인터페이스를 담당하는 레이어
+### 💁🏻 View : 사용자에게 보여질 인터페이스를 담당하는 레이어
 
 View 레이어에서는 사용자에게 앱의 데이터를 보여주고 상호 작용하는 방식을 정의한다. 
 
@@ -61,7 +59,7 @@ View 레이어에서 사용자의 액션에 의해 생긴 변화는 Controller�
 
 <br>
 
-### Controller : Model 과 View를 연결해주는 레이어
+### 💁🏻‍♀️ Controller : Model 과 View를 연결해주는 레이어
 
 Controller 레이어는 Model에서 데이터를 가져온 다음 사용자에게 표시할 View로 이를 전달한다.
 
