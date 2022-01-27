@@ -53,7 +53,7 @@ module.exports = {
         activity: '블로그 시작',
       },
       {
-        date: '2022.01 ~ 2022.01',
+        date: '2022.01 ~ 2022.02',
         activity: 'AWS Cloud Bootcamp 참여',
       },
     ],
