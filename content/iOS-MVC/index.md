@@ -1,6 +1,6 @@
 ---
 emoji: 📱
-title: '[iOS] MVC 디자인 패턴'
+title: 'MVC 디자인 패턴'
 date: '2022-01-24 22:56:00'
 author: 콤퓨타샤
 tags: iOS MVC design-pattern Cocoa Cocoa-Touch computasha
