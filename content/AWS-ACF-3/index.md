@@ -1,6 +1,6 @@
 ---
 emoji: ☁️
-title: '[TIL] AWS ACF 3. 클라우드 컴퓨팅 배포 모델'
+title: 'AWS ACF 3. 클라우드 컴퓨팅 배포 모델'
 date: '2022-01-19 23:45:00'
 author: 콤퓨타샤
 tags: AWS cloud-computing computasha

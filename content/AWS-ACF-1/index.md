@@ -1,6 +1,6 @@
 ---
 emoji: ☁️
-title: '[TIL] AWS ACF 1. 클라우드 컴퓨팅이란'
+title: 'AWS ACF 1. 클라우드 컴퓨팅이란'
 date: '2022-01-11 12:10:00'
 author: 콤퓨타샤
 tags: AWS cloud-computing computasha

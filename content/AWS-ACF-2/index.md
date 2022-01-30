@@ -1,6 +1,6 @@
 ---
 emoji: ☁️
-title: '[TIL] AWS ACF 2. 클라우드 컴퓨팅 서비스 모델'
+title: 'AWS ACF 2. 클라우드 컴퓨팅 서비스 모델'
 date: '2022-01-12 23:45:00'
 author: 콤퓨타샤
 tags: AWS cloud-computing computasha IaaS PaaS SaaS
