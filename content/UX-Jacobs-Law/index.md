@@ -8,7 +8,7 @@ categories: UX/UI
 ---
 
 ## 제이콥의 법칙(Jakob's Law)    
-![제이콥의 법칙](/UX-Jacob's-Law.png)
+![제이콥의 법칙](/UX-Jacob's-Law2.png)
 
 ### 💁🏻 개요
 

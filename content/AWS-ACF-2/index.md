@@ -8,11 +8,11 @@ categories: AWS
 ---
 
 ## 💥 IaaS, PaaS, SaaS
-![클라우드 컴퓨팅 서비스 모델](/AWS-ACF-2-service-model.png)  
+![클라우드 컴퓨팅 서비스 모델](/AWS-ACF-2-service-model2.png)  
 
 각 모델은 클라우드 컴퓨팅 스택의 각기 다른 부분에 해당한다. 이를 통해 IT 리소스에 대한 다양한 수준의 제어를 제공하고 있다.
 
-![서비스 모델 책임 범위](/AWS-ACF-2-responsibility.png)
+![서비스 모델 책임 범위](/AWS-ACF-2-responsibility2.png)
 
 ### 1. IaaS(서비스형 인프라)
 = Infrastructure as a Service

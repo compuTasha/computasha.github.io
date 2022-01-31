@@ -9,7 +9,7 @@ categories: AWS
 
 ## 💥 클라우드 컴퓨팅 배포 모델
 
-![클라우드 배포 모델](/cloud-deployment.png)
+![클라우드 배포 모델](/cloud-deployment2.png)
 
 각 모델은 애플리케이션을 배포할 수 있는 클라우드 환경을 나타낸다  
 <br><br>
