@@ -1,7 +1,7 @@
 ---
 emoji: ☁️
 title: 'AWS ACF 4. 클라우드 컴퓨팅의 장점'
-date: '2022-01-40 23:48:00'
+date: '2022-01-30 23:48:00'
 author: 콤퓨타샤
 tags: AWS cloud-computing computasha
 categories: AWS
