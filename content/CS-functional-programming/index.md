@@ -23,7 +23,7 @@ categories: CS
 
 **즉 명령형 프로그래밍은 어떻게 할 것인가(How)를 표현하고, 선언형 프로그래밍은 무엇을 할 것인가(What)를 표현한다.**
 
-![명령형프로그래밍vs함수형프로그래밍](/programming-paradigm.png)
+![명령형프로그래밍vs함수형프로그래밍](/programming-paradigm2.png)
 
 <br>
 
