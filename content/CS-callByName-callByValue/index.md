@@ -27,7 +27,7 @@ val lambda: () -> Boolean = {
 
 ```
 <br>
-callByValue 방법을 사용하면 매개변수로 람다식 함수를 바로 호출하니까, lambda 함수에서 반환값을 받아온 후에 callByValue 함수 블록으로 넘어간다. 그 경우 반환값은 일반 Boolean 자료형이다.  
+Call by Value 방법을 사용하면 매개변수로 람다식 함수를 바로 호출하니까, lambda 함수에서 반환값을 받아온 후에 callByValue 함수 블록으로 넘어간다. 그 경우 반환값은 일반 Boolean 자료형이다.  
     
 <br><br>
 
@@ -50,7 +50,7 @@ val otherLambda: () -> Boolean = {
 
 ```
 <br>
-callByName 방법을 사용하면, 매개변수로 함수 이름만 사용하니까 람다식 자체가 callByName 함수 매개변수에 복사되고(함수호출 X), 그 경우 매개변수의 자료형은 람다식 함수 자료형이다. 이는 callByName 함수 내에서 return 시 b()를 통해 otherLambda를 호출하고 값을 반환한다.  
+Call by Name 방법을 사용하면, 매개변수로 함수 이름만 사용하니까 람다식 자체가 callByName 함수 매개변수에 복사되고(함수호출 X), 그 경우 매개변수의 자료형은 람다식 함수 자료형이다. 이는 callByName 함수 내에서 return 시 b()를 통해 otherLambda를 호출하고 값을 반환한다.  
     
 <br><br>
 
@@ -68,7 +68,7 @@ callByName 방법을 사용하면, 매개변수로 함수 이름만 사용하니
 
 <br>
 
-참고 링크 :
+참고 링크 :  
 [Call by Value, Call by Name - kotlin (gitbook.io)](https://gold.gitbook.io/kotlin/call-by-value-call-by-name)
 
 <br><br>
