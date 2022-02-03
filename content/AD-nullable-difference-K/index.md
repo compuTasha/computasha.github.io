@@ -4,7 +4,7 @@ title: '()→Int? 와 (()→Int)? 차이점 - Kotlin'
 date: '2022-02-03 23:49:00'
 author: 콤퓨타샤
 tags: Kotlin computasha 
-categories: CS
+categories: Android
 ---
 
 ### 코세라 [Kotlin for Java Developers](https://www.coursera.org/learn/kotlin-for-java-developers?) 강의에 등장한 문제

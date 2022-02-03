@@ -4,7 +4,7 @@ title: 'Call by Value, Call by Name - Kotlin'
 date: '2022-02-02 23:29:00'
 author: 콤퓨타샤
 tags: Kotlin computasha 
-categories: CS
+categories: Android
 ---
 
 
