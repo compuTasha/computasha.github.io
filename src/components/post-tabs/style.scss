@@ -28,6 +28,7 @@
         font-weight: 500;
         font-size: 17px;
         transition: all 200ms ease;
+        text-transform: none;
 
         :hover {
           color: var(--tab-hover-text-color);
