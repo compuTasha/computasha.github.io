@@ -26,7 +26,7 @@ rangeTo() 함수의 operator form 이고, (..) operator를 사용하여 **문자
 ```kotlin
 println("사과" in "고기".."한약") // true
 
-println("사과" in "고기", "더덕") // false
+println("사과" in "고기".."더덕") // false
 
 ```
 
