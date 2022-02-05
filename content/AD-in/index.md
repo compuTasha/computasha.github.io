@@ -1,6 +1,6 @@
 ---
 emoji: 💬
-title: '.. operator - Kotlin'
+title: '.. operator 범위 - Kotlin'
 date: '2022-02-05 23:49:00'
 author: 콤퓨타샤
 tags: Kotlin computasha 
@@ -17,7 +17,7 @@ categories: Android
 ### A. 사전 순으로 Java랑 Scala 사이에 있어서 true  
 
 **(..) operator**는 range를 다룰 수 있는 가장 간단한 방법이다. 시작과 끝 값을 모두 포함하는 범위를 만든다.  
-rangeTo() 함수의 operator form 이고, (..) 연산자를 사용하여 문자뿐만 아니라 정수에 대한 범위를 만들 수 있다.
+rangeTo() 함수의 operator form 이고, (..) operator를 사용하여 **문자**뿐만 아니라 정수에 대한 범위를 만들 수 있다.
 
 <br>
 
