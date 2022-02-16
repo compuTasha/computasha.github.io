@@ -3,7 +3,7 @@ emoji: 🤙🏻
 title: '객체 지향 프로그래밍, OOP의 개념과 특징'
 date: '2022-02-12 23:38:00'
 author: 콤퓨타샤
-tags: programming-paradigm computasha
+tags: programming-paradigm OOP computasha
 categories: CS
 ---
 
