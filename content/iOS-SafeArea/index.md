@@ -1,6 +1,6 @@
 ---
 emoji: 📱
-title: '[SwiftUI] Safe area와 ignoresSafeArea() 이해하기'
+title: 'Safe area와 ignoresSafeArea() 이해하기 - SwiftUI'
 date: '2022-04-08 22:56:00'
 author: 콤퓨타샤
 tags: iOS SwiftUI computasha
