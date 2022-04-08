@@ -10,7 +10,7 @@ categories: iOS
 
 ## ✅ Safe area
 
-![Safe area](/safearea.png)  
+![Safe area](/Safearea.png)  
 <br>
 그림에 보이는 영역이 Safe area에 해당한다. 기본적으로 SwiftUI에서는 뷰를 Safe area 안에만 배치한다.
 
