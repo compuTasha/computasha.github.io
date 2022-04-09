@@ -8,7 +8,7 @@ categories: iOS
 ---
 
 
-## VStack
+## 🥞 VStack
 
 child 뷰를 수직으로 정렬하는 뷰
 
@@ -47,7 +47,7 @@ var body: some View {
 
 <br>
 
-## LazyVStack
+## 🍔 LazyVStack
 
 화면에 보이는 부분에서만 child 뷰를 로드해서 수직으로 보여주는 뷰
 
